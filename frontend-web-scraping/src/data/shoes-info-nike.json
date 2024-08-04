@@ -1,0 +1,749 @@
+[
+  {
+    "marca": "Nike",
+    "title": "PHANTOM LUNA II ACADEMY FG/MG",
+    "price": "$99.990",
+    "description": "Zapatos de fútbol high MG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077022-800-800?v=638574587003400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6725-400-phantom-luna-ii-academy-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II PRO TF",
+    "price": "$129.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077121-800-800?v=638574588365700000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2583-400-phantom-gx-ii-pro-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II PRO AG-PRO",
+    "price": "$149.990",
+    "description": "Zapatos de fútbol de corte low AG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077110-800-800?v=638574588215300000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2582-400-phantom-gx-ii-pro-ag-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "SUPERFLY 10 CLUB FG/MG",
+    "price": "$69.990",
+    "description": "Zapatos de fútbol MG de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077534-800-800?v=638574594142270000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8314-400-superfly-10-club-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM LUNA II ELITE AG-PRO",
+    "price": "$286.990",
+    "description": "Zapatos de fútbol de corte alto AG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077099-800-800?v=638574588067630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2579-400-phantom-luna-ii-elite-ag-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "ZM SUPERFLY 10 ACADEMY TF",
+    "price": "$102.990",
+    "description": "Zapatos de fútbol TF de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077567-800-800?v=638574594584400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8331-400-zm-superfly-10-academy-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II ACADEMY FG/MG",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077011-800-800?v=638574586841630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6723-400-phantom-gx-ii-academy-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 PRO TF",
+    "price": "$135.990",
+    "description": "Zapatos de fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076899-800-800?v=638574585352200000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4336-400-legend-10-pro-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "ZOOM VAPOR 16 ACADEMY FG/MG",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077579-800-800?v=638574594745630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8374-400-zoom-vapor-16-academy-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM LUNA II CLUB TF",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol TF high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077088-800-800?v=638574587924230000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2578-400-phantom-luna-ii-club-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II ELITE FG",
+    "price": "$265.990",
+    "description": "Zapatos de fútbol FG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077055-800-800?v=638574587492730000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2559-400-phantom-gx-ii-elite-fg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 CLUB TF",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076943-800-800?v=638574585926400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4345-400-legend-10-club-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II CLUB FG/MG",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077033-800-800?v=638574587172000000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2557-400-phantom-gx-ii-club-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 ELITE FG",
+    "price": "$235.990",
+    "description": "Zapatos de fútbol de corte low para terreno firme",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076877-800-800?v=638574585058900000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4328-400-legend-10-elite-fg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II CLUB TF",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077132-800-800?v=638574588510800000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2587-400-phantom-gx-ii-club-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM LUNA II CLUB FG/MG",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol MG high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077044-800-800?v=638574587335100000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2558-400-phantom-luna-ii-club-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM LUNA II ACADEMY TF",
+    "price": "$99.990",
+    "description": "Zapatos de fútbol high TF",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077066-800-800?v=638574587640470000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2566-400-phantom-luna-ii-academy-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "ZOOM VAPOR 16 ACADEMY TF",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077623-800-800?v=638574595323630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8449-400-zoom-vapor-16-academy-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "VAPOR 16 CLUB TF",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077612-800-800?v=638574595181170000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8446-400-vapor-16-club-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "VAPOR 16 CLUB FG/MG",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077601-800-800?v=638574595038530000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8441-400-vapor-16-club-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "PHANTOM GX II ACADEMY TF",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077077-800-800?v=638574587783670000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2577-400-phantom-gx-ii-academy-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 ACADEMY FG/MG",
+    "price": "$86.990",
+    "description": "Zapatos de fútbol de corte low para terrenos múltiples",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076910-800-800?v=638574585498470000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4337-400-legend-10-academy-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 CLUB FG/MG",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol de corte low para terrenos múltiples",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076932-800-800?v=638574585784700000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4344-400-legend-10-club-fg-mg/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "LEGEND 10 ACADEMY TF",
+    "price": "$86.990",
+    "description": "Zapatos de fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1076921-800-800?v=638574585640570000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4342-400-legend-10-academy-tf/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Elite",
+    "price": "$265.990",
+    "description": "Zapatos de fútbol de corte low AG-Pro",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091818-800-800?v=638582155128830000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8693-400-nike-mercurial-vapor-16-elite/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 10 Club",
+    "price": "$69.990",
+    "description": "Zapatos de fútbol TF de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091784-800-800?v=638582154677500000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8317-400-nike-mercurial-superfly-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 10 Elite",
+    "price": "$286.990",
+    "description": "Zapatos de fútbol FG de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091761-800-800?v=638582154361600000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq1454-400-nike-mercurial-superfly-10-elite/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Pro",
+    "price": "$129.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091807-800-800?v=638582154984600000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8687-400-nike-mercurial-vapor-16-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 10 Academy",
+    "price": "$102.990",
+    "description": "Zapatos de fútbol MG de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091772-800-800?v=638582154511430000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq1456-400-nike-mercurial-superfly-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Pro",
+    "price": "$149.990",
+    "description": "Zapatos de fútbol FG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1091795-800-800?v=638582154827470000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8685-400-nike-mercurial-vapor-16-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 10 Elite Blueprint",
+    "price": "$317.990",
+    "description": "Zapatos de fútbol FG de corte high Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1064837-800-800?v=638562337340830000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/hj9293-100-nike-mercurial-superfly-10-elite-blueprint/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Elite Blueprint",
+    "price": "$286.990",
+    "description": "Zapatos de fútbol FG de corte low Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1064762-800-800?v=638562336049700000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/hj4188-100-nike-mercurial-vapor-16-elite-blueprint/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062201-800-800?v=638558096611770000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2577-002-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1068811-800-800?v=638570093166630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8449-002-nike-mercurial-vapor-16-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$89.990",
+    "description": "Tacos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062168-800-800?v=638558096165000000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6723-002-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$86.990",
+    "description": "Zapatos de fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062081-800-800?v=638558094945300000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4342-002-nike-tiempo-legend-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Pro",
+    "price": "$129.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1068822-800-800?v=638570093309400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8687-002-nike-mercurial-vapor-16-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$59.990",
+    "description": "Zapatillas de fútbol de corte low para cancha cubierta",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/967141-800-800?v=638475983040670000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4343-040-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Club",
+    "price": "$62.990",
+    "description": "Tacos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062179-800-800?v=638558096315330000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2557-002-nike-phantom-gx-2-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Club",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol TF de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1068800-800-800?v=638570093025770000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8446-002-nike-mercurial-vapor-16-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$62.990",
+    "description": "Tacos de fútbol de corte low para terrenos múltiples",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062092-800-800?v=638558095097030000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4344-002-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$86.990",
+    "description": "Tacos de fútbol de corte low para terrenos múltiples",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062070-800-800?v=638558094791730000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4337-002-nike-tiempo-legend-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Club",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1068789-800-800?v=638570092882630000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8441-002-nike-mercurial-vapor-16-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$62.990",
+    "description": "Zapatos de fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062103-800-800?v=638558095248500000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4345-002-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Club",
+    "price": "$44.990",
+    "description": "Zapatos de Fútbol Low MG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/998328-800-800?v=638488883679870000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2587-001-nike-phantom-gx-2-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom Luna 2 Club",
+    "price": "$62.990",
+    "description": "Tacos de fútbol MG high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1062190-800-800?v=638558096461300000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2558-002-nike-phantom-luna-2-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 16 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de fútbol MG de corte low",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1068767-800-800?v=638570092573970000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8374-002-nike-mercurial-vapor-16-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 10 Club",
+    "price": "$69.990",
+    "description": "Zapatos de fútbol MG de corte high",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1077523-800-800?v=638574593988770000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq8314-002-nike-mercurial-superfly-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Elite",
+    "price": "$284.990",
+    "description": "Zapatos de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024695-800-800?v=638520836505030000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj4977-601-nike-mercurial-superfly-9-elite/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 15 Pro",
+    "price": "$129.990",
+    "description": "Zapatillas de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024704-800-800?v=638520836637900000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5605-601-nike-mercurial-vapor-15-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom Luna 2 Elite",
+    "price": "$284.990",
+    "description": "Zapatos de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024857-800-800?v=638520839112470000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2572-600-nike-phantom-luna-2-elite/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom Luna 2 Academy",
+    "price": "$99.990",
+    "description": "Zapatos de Fútbol TF High-Top",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024841-800-800?v=638520838865400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2566-600-nike-phantom-luna-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Pro",
+    "price": "$129.990",
+    "description": "Zapatos de Fútbol TF Low-Top",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024877-800-800?v=638520839405570000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2583-600-nike-phantom-gx-2-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de Fútbol TF Low-Top",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024866-800-800?v=638520839247930000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2577-600-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Academy",
+    "price": "$102.990",
+    "description": "Zapatillas de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024761-800-800?v=638520837664270000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5629-601-nike-mercurial-superfly-9-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 15 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de Fútbol Multi-terreno",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024776-800-800?v=638520837912770000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5631-601-nike-mercurial-vapor-15-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom Luna 2 Academy",
+    "price": "$99.990",
+    "description": "Zapatos de Fútbol MG High-Top",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024834-800-800?v=638520838764100000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6725-600-nike-phantom-luna-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 15 Academy",
+    "price": "$89.990",
+    "description": "Zapatillas de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024789-800-800?v=638520838115970000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5635-601-nike-mercurial-vapor-15-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$86.990",
+    "description": "Zapatillas de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/997604-800-800?v=638488869521870000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4342-601-nike-tiempo-legend-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$89.990",
+    "description": "Zapatos de Fútbol Low MG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024817-800-800?v=638520838505530000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6723-600-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Academy",
+    "price": "$102.990",
+    "description": "Zapatos de Fútbol MG High-Top Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/1024751-800-800?v=638520837454530000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5625-601-nike-mercurial-superfly-9-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Pro",
+    "price": "$135.990",
+    "description": "Zapatillas de Fútbol",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/997578-800-800?v=638488869109030000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4336-601-nike-tiempo-legend-10-pro/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$86.990",
+    "description": "Zapatos de Fútbol Multi-terreno",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/997589-800-800?v=638488869290200000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4337-601-nike-tiempo-legend-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Elite 30",
+    "price": "$244.990",
+    "description": "Zapatos de fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/967885-800-800?v=638475995046170000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq3247-300-nike-tiempo-legend-10-elite-30/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy 30",
+    "price": "$89.990",
+    "description": "Zapatos de Fútbol TF Low-Top",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/967873-800-800?v=638475994873030000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq3245-300-nike-tiempo-legend-10-academy-30/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy 30",
+    "price": "$89.990",
+    "description": "Zapatos de Fútbol Low MG",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/967861-800-800?v=638475994701800000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fq3243-300-nike-tiempo-legend-10-academy-30/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 15 Club",
+    "price": "$59.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/951852-800-800?v=638412074653400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5963-700-nike-mercurial-vapor-15-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$62.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/786600-800-800?v=638260711026470000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4344-040-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$71.990",
+    "description": "Zapatos de fútbol low MG para hombre",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954209-800-800?v=638417347178830000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6723-100-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Academy",
+    "price": "$71.990",
+    "description": "Zapatillas de fútbol low TF para hombre",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954273-800-800?v=638417348080870000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2577-100-nike-phantom-gx-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Vapor 15 Club",
+    "price": "$62.990",
+    "description": "Zapatillas de Fútbol de corte low para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954050-800-800?v=638417344982200000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5968-700-nike-mercurial-vapor-15-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom GX 2 Club",
+    "price": "$50.990",
+    "description": "Zapatillas de fútbol low MG para hombre",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954250-800-800?v=638417347783100000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fj2557-100-nike-phantom-gx-2-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Elite",
+    "price": "$227.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/951760-800-800?v=638412073470170000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj4977-700-nike-mercurial-superfly-9-elite/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$44.990",
+    "description": "Zapatillas de Fútbol para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/770426-800-800?v=638253935659800000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4345-040-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$69.990",
+    "description": "Zapatillas de Fútbol de corte low para cancha cubierta",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/913332-800-800?v=638382545158070000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4341-040-nike-tiempo-legend-10-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "NikePremier 3",
+    "price": "$116.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/940323-800-800?v=638405197664200000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/at5889-200-nikepremier-3/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$50.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/951861-800-800?v=638412074768430000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4344-700-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Phantom Luna 2 Academy",
+    "price": "$79.990",
+    "description": "Zapatos de Fútbol para Hombre",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/951882-800-800?v=638412075057730000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd6725-100-nike-phantom-luna-2-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Club",
+    "price": "$50.990",
+    "description": "Zapatillas de Fútbol para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954112-800-800?v=638417345826400000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4345-700-nike-tiempo-legend-10-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Club",
+    "price": "$53.990",
+    "description": "Zapatillas de Fútbol high para pasto sintético (turf)",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/954037-800-800?v=638417344809200000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5965-700-nike-mercurial-superfly-9-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Club",
+    "price": "$51.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/951838-800-800?v=638412074479500000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dj5961-700-nike-mercurial-superfly-9-club/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Mercurial Superfly 9 Academy",
+    "price": "$82.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/880955-800-800?v=638350625449300000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/fd1162-600-nike-mercurial-superfly-9-academy/p"
+  },
+  {
+    "marca": "Nike",
+    "title": "Nike Tiempo Legend 10 Academy",
+    "price": "$86.990",
+    "description": "Zapatos de Fútbol Unisex",
+    "image": "https://nikeclprod.vtexassets.com/arquivos/ids/798380-800-800?v=638284105656070000&width=800&height=800&aspect=true",
+    "brandLogo": "https://i.pinimg.com/originals/96/fe/8b/96fe8be11b44e43f01b2bf325d4b35ad.jpg",
+    "url": "https://www.nike.cl/dv4337-040-nike-tiempo-legend-10-academy/p"
+  }
+]

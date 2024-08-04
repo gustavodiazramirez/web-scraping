@@ -1,0 +1,434 @@
+[
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Elite Sin Cordones Terreno Firme",
+    "price": "$269.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/21406d9195604131b329ba8dc7b578b7_9366/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-firme/IG0611.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol Deportivo II Césped Artificial",
+    "price": "$39.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3c349865e4a84e03b861af3f0188a891_9366/zapatos-de-futbol-deportivo-ii-cesped-artificial.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-deportivo-ii-cesped-artificial/HP2519.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Messi.3 Terreno Firme",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb58b4ea3f2b405eadb5cf5b9fd013cf_9366/zapatos-de-futbol-x-crazyfast-messi.3-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-messi.3-terreno-firme/IE4078.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast+ Terreno blando",
+    "price": "$439.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb3bcc0749424e14aac6fe7106f1073d_9366/zapatos-de-futbol-x-crazyfast-terreno-blando.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-terreno-blando/IF0646.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast.3 Césped artificial",
+    "price": "$89.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a685d0329f6c4372b1cf7442566df878_9366/zapatos-x-crazyfast.3-cesped-artificial.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast.3-cesped-artificial/ID9338.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol Deportivo II Multiterreno",
+    "price": "$37.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/50f6e2302f304aef8da2af5f00f6a6df_9366/zapatos-de-futbol-deportivo-ii-multiterreno.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-deportivo-ii-multiterreno/HP2512.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast.3 Terreno Firme",
+    "price": "$89.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2fe4f2d3309041819f21874732d6bdfb_9366/zapatos-x-crazyfast.3-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast.3-terreno-firme/GY7428.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Messi.3 Pasto Sintético",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/660f2489c4e24fd5b2a3ad7a4e5b72b6_9366/zapatos-de-futbol-x-crazyfast-messi.3-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-messi.3-pasto-sintetico/IE4074.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol Deportivo II Cancha Cubierta",
+    "price": "$39.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/17243b4efd9c45b49007af71003387f2_9366/zapatos-de-futbol-deportivo-ii-cancha-cubierta.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-deportivo-ii-cancha-cubierta/HP2515.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Elite Terreno Blando",
+    "price": "$269.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4101c024a18d41f28a97d36ce1c4b9eb_9366/zapatos-de-futbol-x-crazyfast-elite-terreno-blando.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-terreno-blando/IF0665.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast+ Terreno blando",
+    "price": "$439.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f3b2d2d9156645578a4e17b4ce0d2aa3_9366/zapatos-de-futbol-x-crazyfast-terreno-blando.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-terreno-blando/IF0645.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol Deportivo II Césped Artificial",
+    "price": "$37.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/477d3df0652948779c61af7b0105ab6b_9366/zapatos-de-futbol-deportivo-ii-cesped-artificial.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-deportivo-ii-cesped-artificial/HP2520.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Elite",
+    "price": "$289.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0022c44b23ad4118bde4b0dac8b2ab83_9366/zapatos-de-futbol-x-crazyfast-elite.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite/IF0661.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Elite Sin Cordones Terreno Blando",
+    "price": "$289.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/46e71a6fc29645329be125ac90741bd8_9366/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-blando.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-blando/IF0662.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast.4 Cierre por Contacto Pasto Sintético",
+    "price": "$52.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/60b50db8301b4a76a6b8d5d20aa49948_9366/zapatos-x-crazyfast.4-cierre-por-contacto-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast.4-cierre-por-contacto-pasto-sintetico/IE1591.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Guantes X League",
+    "price": "$79.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/cf78456c2703445880e06b0542d141d1_9366/guantes-x-league.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/guantes-x-league/IA0838.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Messi League Terreno Firme",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e40e3bade3b4e69b54a23e6962439a7_9366/zapatos-de-futbol-x-crazyfast-messi-league-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-messi-league-terreno-firme/ID0712.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Terreno Firme Sin Cordones",
+    "price": "$51.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ad9288e0179419d85c9e8fb7e28c1aa_9366/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones/IG0623.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Club Multiterreno",
+    "price": "$46.990 para miembros",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/feb4f8b284754981aa09005e76a8bbd6_9366/zapatos-de-futbol-x-crazyfast-club-multiterreno.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-multiterreno/IG0618.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Pasto Sintético",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac4b28db37ed487c8304684e279cf975_9366/zapatos-de-futbol-x-crazyfast-league-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-pasto-sintetico/IF0699.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast.3 Sin Cordones Césped artificial",
+    "price": "$51.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b63cf3e7f78d423ca2706e0c4a8de388_9366/zapatos-x-crazyfast.3-sin-cordones-cesped-artificial.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast.3-sin-cordones-cesped-artificial/ID9347.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Terreno Firme Sin Cordones",
+    "price": "$46.990 para miembros",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2df55bc2d7074f73b7a322a8ef70f57b_9366/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones/IG0622.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast.1",
+    "price": "$59.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed4497d24d5a479182a7a8d8e2f6c3af_9366/zapatos-de-futbol-x-crazyfast.1.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast.1/GY7378.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol Deportivo II Multiterreno",
+    "price": "$32.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d5f8960314914dfd899aaf700157b354_9366/zapatos-de-futbol-deportivo-ii-multiterreno.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-deportivo-ii-multiterreno/HP2509.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast.3 Terreno Firme",
+    "price": "$29.990 para miembros",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/368957e98dc3483ba557398d0d1aaace_9366/zapatos-x-crazyfast.3-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast.3-terreno-firme/GY7429.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Speedportal.3 Terreno Firme",
+    "price": "$89.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1bfb2e62bc9746139c43af720104c501_9366/zapatos-de-futbol-x-speedportal.3-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-speedportal.3-terreno-firme/GZ5065.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast Messi.4 Multiterreno",
+    "price": "$49.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0465b8e34bee48bfab1d30a2e90f9bb2_9366/zapatos-x-crazyfast-messi.4-multiterreno.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast-messi.4-multiterreno/IE4071.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "X GL PRO",
+    "price": "$44.990 para miembros",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/eef176c69ec44eaa80012b2e52d31f10_9366/x-gl-pro.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/x-gl-pro/IA0837.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Futbol X CRAZYFAST.3 LL Terreno Firme",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5028faa34f5c424dbf9721784a16f498_9366/zapatos-de-futbol-x-crazyfast.3-ll-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast.3-ll-terreno-firme/GY7425.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Speedflow.1 Terreno Blando",
+    "price": "$94.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/52ceef9d6fdd4e96827ead4e00a9fcda_9366/zapatos-de-futbol-x-speedflow.1-terreno-blando.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-speedflow.1-terreno-blando/FY3358.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Speedportal.3 Cancha Cubierta",
+    "price": "$51.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9ea44c592c9416ba7baae9b011604c8_9366/zapatos-de-futbol-x-speedportal.3-cancha-cubierta.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-speedportal.3-cancha-cubierta/GW8466.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos X Crazyfast Messi.4 Pasto Sintético",
+    "price": "$46.990 para miembros",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1e02dd8dd4f1429894f16d626ec57116_9366/zapatos-x-crazyfast-messi.4-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-x-crazyfast-messi.4-pasto-sintetico/IE4068.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Ghosted.1 Terreno Suave",
+    "price": "$269.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/df17a1faa7624c14b767ac6a00e3e1f2_9366/zapatos-de-futbol-x-ghosted.1-terreno-suave.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-ghosted.1-terreno-suave/FW6890.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Sin Cordones Pasto Sintético",
+    "price": "$148.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fb364bebffe46b681100ece2c5f4e51_9366/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico/IF0695.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Elite LL Terreno Firme",
+    "price": "$134.990 para miembros",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9832b4547f6c4d26b38ff5e8a62c6172_9366/zapatos-de-futbol-x-crazyfast-elite-ll-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-ll-terreno-firme/IG0612.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Sin Cordones Pasto Sintético",
+    "price": "$39.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2345afa43beb4e2e97887c7b5d386986_9366/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico/IF0694.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast+ FG",
+    "price": "$89.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/47dd6ec1721d4bcf84a3ad19ee1196bd_9366/zapatos-de-futbol-x-crazyfast-fg.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-fg/IE2375.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Club Cierre por Contacto Pasto Sintético",
+    "price": "$109.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1e9e0dfab7fb4ab09373d334bd760619_9366/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico/IF0713.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Club Cierre por Contacto Pasto Sintético",
+    "price": "$52.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c0aa0876848242ea8d5eb4645c6edb2f_9366/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico/IF0716.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Club Cierre por Contacto Pasto Sintético",
+    "price": "$169.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9592e8b299a14a54a70365b8299c8503_9366/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-cierre-por-contacto-pasto-sintetico/IF0714.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Pasto Sintético",
+    "price": "$94.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e203391b8b6d494ea7316a1afa75d3ef_9366/zapatos-de-futbol-x-crazyfast-league-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-pasto-sintetico/IF0679.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League FG",
+    "price": "$52.990",
+    "description": "Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bd895892e66f4008b71c9065249046cb_9366/zapatos-de-futbol-x-crazyfast-league-fg.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-fg/IG0605.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Elite Terreno Firme",
+    "price": "$94.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b076a281fc344775bcf33372f2cdcce9_9366/zapatos-de-futbol-x-crazyfast-elite-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-terreno-firme/IF0669.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Sin Cordones Pasto Sintético",
+    "price": "$51.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c849e660e5614dd4842a93eb748084bf_9366/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-sin-cordones-pasto-sintetico/IF0687.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Club Pasto Sintético",
+    "price": "$46.990 para miembros",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/723bb16864484f618a0d7f9a03d79540_9366/zapatos-de-futbol-x-crazyfast-club-pasto-sintetico.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-pasto-sintetico/IF0708.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast League Terreno Firme Sin Cordones",
+    "price": "$269.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/08672f20b5d145688990bbaa7fd484f4_9366/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-league-terreno-firme-sin-cordones/IF0688.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de Fútbol X Crazyfast Elite Sin Cordones Terreno Firme",
+    "price": "$148.990",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7007292b2b4e4fc398c27b44dfe81ec3_9366/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-firme.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-elite-sin-cordones-terreno-firme/IF0672.html"
+  },
+  {
+    "marca": "Adidas",
+    "title": "Zapatos de fútbol X Crazyfast Club Multiterreno",
+    "price": "$134.990 para miembros",
+    "description": "Niño Fútbol",
+    "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8e9d71012eb64af2a51f45a2794bfd5c_9366/zapatos-de-futbol-x-crazyfast-club-multiterreno.jpg",
+    "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2560px-Adidas_Logo.svg.png",
+    "url": "https://www.adidas.cl/zapatos-de-futbol-x-crazyfast-club-multiterreno/IF0717.html"
+  }
+]
